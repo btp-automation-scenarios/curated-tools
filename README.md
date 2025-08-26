@@ -1,4 +1,4 @@
-# List of Curated Tools for Teraform and OpenTofu
+# List of Curated Tools for Terraform and OpenTofu
 
 > [!CAUTION]
 > WORK IN PROGRESS
