@@ -1,4 +1,5 @@
 APIs
+Architected
 autocompletion
 Backend
 backend
@@ -8,6 +9,9 @@ checksum
 checksums
 CLA
 CLI
+CNCF
+Codebase
+codebase
 CodeQL
 Codespace
 Codespaces
@@ -23,6 +27,7 @@ env
 dependabot
 devcontainer
 dir
+Docusaurus
 faq
 Github
 github
@@ -33,6 +38,7 @@ https
 HCL
 HashiCorp
 hashicorp
+IaC
 IdP
 init
 json
@@ -44,16 +50,29 @@ lifecycle
 macOS
 Mermaid
 md
+modularity
+Modularity
+Modularizing
+modularizing
+MPL
 NextSteps
+OPA
 OpenSSF
+OpenTofu
 onboarding
 ondemand
+Parameterization
+parameterization
+pluggable
 Pre
 pre
 PowerShell
 powershell
 README
 readme
+Rego
+reusability
+Reusability
 runtime
 runtimes
 reuseable
@@ -73,6 +92,7 @@ terraform
 Terraform's
 Terraforming
 Terraforce
+terraforce
 Terramaid
 Terramate
 tf
@@ -92,3 +112,6 @@ YAML
 yaml
 yml
 zsh
+henrybravo
+nl
+takaishi

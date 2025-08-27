@@ -10,7 +10,7 @@ Terramaid transforms your Terraform resources and plans into Mermaid diagrams. T
 
 ## Problem
 
-Terraform code and plans can become complex and hard to understand. An appealing visualization of these artefacts is not in scope of the Terraform/OpenTofu CLI. However, teams working with Terraform often demand a visual representation of their infrastructure as code to improve the documentation and simplify review processes.
+Terraform code and plans can become complex and hard to understand. An appealing visualization of these artifacts is not in scope of the Terraform/OpenTofu CLI. However, teams working with Terraform often demand a visual representation of their infrastructure as code to improve the documentation and simplify review processes.
 
 ## Solution
 

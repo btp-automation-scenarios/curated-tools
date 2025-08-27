@@ -14,7 +14,7 @@ The Terraform codebase usually evolves over time and refactoring is needed to im
 
 ## Solution
 
-**`tfautomv`** is a refactoing helper for Terraform code. It supports you when refactoring your code base by inspecting the output of the `terraform plan`. It detects creation/deletion pairs that appear upon refactoring and generates the corresponding `moved` block to trigger the address changes in the state file.
+**`tfautomv`** is a refactoring helper for Terraform code. It supports you when refactoring your code base by inspecting the output of the `terraform plan`. It detects creation/deletion pairs that appear upon refactoring and generates the corresponding `moved` block to trigger the address changes in the state file.
 
 ## License
 

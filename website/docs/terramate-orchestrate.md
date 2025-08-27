@@ -13,7 +13,7 @@ The **orchestration feature** of Terramate enables you to orchestrate Terraform 
 Infrastructure as code often involves multiple environments (e.g., development, staging, production) and regions. Modularizing the Terraform code brings in another dimension to the complexity due to dependencies that need to be respected upon deployment.
 
 The Terraform/OpenTofu CLI contains no feature to handle this. Consequently, the orchestration needs to be handled in the CI/CD pipelines. This handling must be implemented statically or with additional scripting to allow for a more dynamic behavior.
-Dependencies cannot be modelled implicitly and the knowledge about needs to be documented explicitly in other tools or formats.
+Dependencies cannot be modeled implicitly and the knowledge about needs to be documented explicitly in other tools or formats.
 
 Overall, this leads to high complexity in real-life scenarios.
 
