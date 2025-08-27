@@ -33,7 +33,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'doc',
       id: 'terramaid',
-      label: 'terramaid',
+      label: 'Terramaid',
     },
     {
       type: 'doc',
