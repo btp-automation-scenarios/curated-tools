@@ -42,6 +42,7 @@ Kyma
 Kubernetes
 lifecycle
 macOS
+Mermaid
 md
 NextSteps
 OpenSSF
@@ -71,7 +72,13 @@ Terraform's
 terraform
 Terraform's
 Terraforming
+Terraforce
+Terramaid
+Terramate
 tf
+tfclean
+TFLint
+tfautomv
 TODO
 toolchain
 UIs
