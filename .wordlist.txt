@@ -38,6 +38,7 @@ https
 HCL
 HashiCorp
 hashicorp
+HashiCorp's
 IaC
 IdP
 init
