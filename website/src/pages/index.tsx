@@ -29,7 +29,7 @@ function HomepageHeader() {
             <div className={styles.heroImageContainer}>
               <img
                 src={useBaseUrl('/img/btp-automation.jpeg')}
-                alt="BTP Automation"
+                alt="BTP Automation Reposiotry Logo"
                 className={styles.heroImage}
               />
             </div>

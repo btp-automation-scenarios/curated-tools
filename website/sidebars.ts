@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -22,18 +22,40 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'doc',
-      id: 'open-policy-agent',
-      label: 'Open Policy Agent (OPA)',
+      id: 'terramate-generate',
+      label: 'Terramate - Code Generation',
     },
     {
       type: 'doc',
-      id: 'terramate',
-      label: 'Terramate',
+      id: 'terramate-orchestrate',
+      label: 'Terramate - Orchestration',
+    },
+    {
+      type: 'doc',
+      id: 'terramaid',
+      label: 'terramaid',
+    },
+    {
+      type: 'doc',
+      id: 'tfautomv',
+      label: 'tfautomv',
     },
     {
       type: 'doc',
       id: 'tflint',
-      label: 'tflint',
+      label: 'TFLint',
+    },
+
+    {
+      type: 'doc',
+      id: 'open-policy-agent',
+      label: 'Open Policy Agent (OPA)',
+    },
+
+    {
+      type: 'doc',
+      id: 'skipped',
+      label: 'Skipped Tools',
     },
   ],
 
