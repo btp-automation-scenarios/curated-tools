@@ -10,6 +10,7 @@ checksums
 CLA
 CLI
 CNCF
+CSV
 Codebase
 codebase
 CodeQL
@@ -29,8 +30,10 @@ devcontainer
 dir
 Docusaurus
 faq
+filesystem
 Github
 github
+GitLab
 globalaccount
 hanatrial
 html
@@ -44,6 +47,7 @@ IdP
 init
 json
 JSON
+js
 jq
 Kyma
 Kubernetes
@@ -55,8 +59,10 @@ modularity
 Modularity
 Modularizing
 modularizing
+modularize
 MPL
 NextSteps
+npm
 OPA
 OpenSSF
 OpenTofu
@@ -96,6 +102,7 @@ Terraforce
 terraforce
 Terramaid
 Terramate
+terrawiz
 tf
 tfclean
 TFLint
