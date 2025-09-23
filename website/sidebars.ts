@@ -51,7 +51,11 @@ const sidebars: SidebarsConfig = {
       id: 'open-policy-agent',
       label: 'Open Policy Agent (OPA)',
     },
-
+    {
+      type: 'doc',
+      id: 'terrawiz',
+      label: 'terrawiz',
+    },
     {
       type: 'doc',
       id: 'skipped',
