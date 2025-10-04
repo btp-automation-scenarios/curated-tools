@@ -58,6 +58,11 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'doc',
+      id: 'terraform-provider-supported-actions',
+      label: 'terraform-provider-supported-actions',
+    },
+    {
+      type: 'doc',
       id: 'skipped',
       label: 'Skipped Tools',
     },
