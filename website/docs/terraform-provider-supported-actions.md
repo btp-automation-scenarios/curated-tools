@@ -6,7 +6,7 @@ sidebar_position: 9
 
 ## Intent
 
-The intnet of the tool/repository is to provide an overview of which Terraform providers support which actions and search capabilities.
+The intent of the tool/repository is to provide an overview of which Terraform providers support which actions and search capabilities.
 
 ## Problem
 
