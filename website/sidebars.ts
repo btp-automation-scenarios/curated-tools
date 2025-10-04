@@ -59,7 +59,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'doc',
       id: 'terraform-provider-supported-actions',
-      label: 'terraform-provider-supported-actions',
+      label: 'Provider Supported Actions',
     },
     {
       type: 'doc',
