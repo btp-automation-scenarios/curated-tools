@@ -43,8 +43,10 @@ HashiCorp
 hashicorp
 HashiCorp's
 IaC
+iac
 IdP
 init
+io
 json
 JSON
 js
@@ -53,6 +55,8 @@ Kyma
 Kubernetes
 lifecycle
 macOS
+MCP
+mcp
 Mermaid
 md
 modularity
@@ -66,6 +70,7 @@ npm
 OPA
 OpenSSF
 OpenTofu
+opentofu
 onboarding
 ondemand
 Parameterization
@@ -83,6 +88,7 @@ Reusability
 runtime
 runtimes
 reuseable
+SDD
 spf
 SSO
 sso
@@ -103,6 +109,7 @@ terraforce
 Terramaid
 Terramate
 terrawiz
+terramate
 tf
 tfclean
 TFLint
