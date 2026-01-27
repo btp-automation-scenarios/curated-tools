@@ -63,6 +63,11 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'doc',
+      id: 'ai-tooling',
+      label: 'AI Tooling',
+    },
+    {
+      type: 'doc',
       id: 'skipped',
       label: 'Skipped Tools',
     },
