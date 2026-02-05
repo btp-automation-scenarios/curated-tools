@@ -9,5 +9,5 @@ These tools have been reviewed but not included in the curated list. The reasons
 
 | Tool | Context |Link | Reason for skipping |
 |---|---|---|---|
-| Terraforce | Advanced Policy Enforcement for Terraform | https://terraforce.henrybravo.nl/ | Incompatible license, no contributions guidelines |
+| Terraforce | Advanced Policy Enforcement for Terraform | https://henrybravo.nl/ -> Terraforce | Incompatible license, no contributions guidelines |
 | tfclean | A tool to clean up unused move, import and removed blocks | https://github.com/takaishi/tfclean |  no license, no contribution guidelines |
