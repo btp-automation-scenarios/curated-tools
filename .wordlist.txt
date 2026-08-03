@@ -1,3 +1,5 @@
+Agentic
+agentic
 APIs
 Architected
 autocompletion
@@ -16,6 +18,8 @@ codebase
 CodeQL
 Codespace
 Codespaces
+Conftest
+conftest
 config
 Copilot
 customizations
