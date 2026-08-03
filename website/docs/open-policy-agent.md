@@ -10,7 +10,7 @@ The Open Policy Agent is a generic policy engine to evaluate policies in various
 
 ## Problem
 
-When automating the deployment of infrastructure via Terraform/OpenTofu it is beneficial to enforce certain policy upon deployment and have some safeguard in place to e.g., avoid unwanted deletions of a database.
+When automating the deployment of infrastructure via Terraform/OpenTofu it is beneficial to enforce certain policies upon deployment and have some safeguard in place to e.g., avoid unwanted deletions of a database.
 
 There is not built-in mechanism to validate these policies in the Terraform/OpenTofu CLI or in the CI/CD infrastructure, so users must find a way to implement this.
 
