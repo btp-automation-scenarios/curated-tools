@@ -53,6 +53,11 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'doc',
+      id: 'conftest',
+      label: 'Conftest',
+    },
+    {
+      type: 'doc',
       id: 'terrawiz',
       label: 'terrawiz',
     },
