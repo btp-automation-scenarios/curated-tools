@@ -25,7 +25,7 @@ In this section we collect AI-related tools that can support you in your AI and 
 |---|---|---|
 | Awesome GitHub Copilot Customizations - Terraform Conventions | Custom instructions for Terraform conventions in general | https://github.com/github/awesome-copilot/blob/main/instructions/terraform.instructions.md |
 | Awesome GitHub Copilot Customizations - Terraform on SAP BTP – Best Practices & Conventions | Custom instructions for Terraform on SAP BTP | https://github.com/github/awesome-copilot/blob/main/instructions/terraform-sap-btp.instructions.md |
-| HashiCorp Agent Skills | A collection of Agent skills and Claude Code plugins for HashiCorp products. The repository contains dedicated [agent skills for Terraform](https://github.com/hashicorp/agent-skills/tree/main/terraform) | https://github.com/hashicorp/agent-skills |
+| HashiCorp Agent Skills | A collection of Agent skills and Claude Code plugins for HashiCorp products. The repository contains dedicated [agent skills for Terraform](https://github.com/hashicorp/agent-skills/tree/main/plugins/terraform/skills) | https://github.com/hashicorp/agent-skills |
 
 
 ## Specification-driven Development (SDD)
